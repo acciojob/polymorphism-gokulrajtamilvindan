@@ -9,17 +9,14 @@ public class Main {
     }
     public static class Product {
         public int product(int x, int y) {
-
             return x;
         }
 
         public int product(int x, int y, int z) {
-
             return x;
         }
 
         public double product(double x, double y) {
-
             return x;
         }
     }
